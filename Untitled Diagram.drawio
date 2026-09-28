@@ -25,11 +25,17 @@
         <mxCell id="W2-PcuYCzJ5DUdXKhJb4-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="CUNG CÂP THÊM FLOW CHART VÀ CÁCH HDSD" vertex="1">
           <mxGeometry height="60" width="120" x="360" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="t8973cusySQ6XeQbeJJZ-4" edge="1" parent="1" source="W2-PcuYCzJ5DUdXKhJb4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="t8973cusySQ6XeQbeJJZ-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="W2-PcuYCzJ5DUdXKhJb4-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PHƯƠNG ÁN TÍNH TOÁN THÉP HÌNH&lt;div&gt;KẾT CẤU THÉP NHANH THEO POLYLINE&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="170" x="40" y="220" as="geometry" />
         </mxCell>
         <mxCell id="u515HqKaJzbqh5hts6XB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PHƯƠNG ÁN TÍNH TOÁN HẠ TẦNG KỸ THUẬT" vertex="1">
           <mxGeometry height="60" width="170" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="t8973cusySQ6XeQbeJJZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="sử dụng thuật toán tính toán kl bằng modules ttkct&lt;div&gt;đơn vị là m theo bluebeam&lt;/div&gt;&lt;div&gt;đưa từ blubeam xml qua python để tính toán&amp;nbsp;&lt;/div&gt;&lt;div&gt;chuẩn hóa suất ra kq / m2 sơn&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="290" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
