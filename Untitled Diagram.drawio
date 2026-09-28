@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="q6gl9Xly3hDBTWDHNLKy">
+    <mxGraphModel dx="1352" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W2-PcuYCzJ5DUdXKhJb4-3" edge="1" parent="1" source="W2-PcuYCzJ5DUdXKhJb4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W2-PcuYCzJ5DUdXKhJb4-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2-PcuYCzJ5DUdXKhJb4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MODULES 1&lt;br&gt;Tính KL HT + Python&amp;nbsp;&lt;br&gt;Phân tách thành BOQ&lt;br&gt;Cho Tường" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W2-PcuYCzJ5DUdXKhJb4-5" edge="1" parent="1" source="W2-PcuYCzJ5DUdXKhJb4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W2-PcuYCzJ5DUdXKhJb4-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2-PcuYCzJ5DUdXKhJb4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BUILD GUI + PYTHON" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W2-PcuYCzJ5DUdXKhJb4-7" edge="1" parent="1" source="W2-PcuYCzJ5DUdXKhJb4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="W2-PcuYCzJ5DUdXKhJb4-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W2-PcuYCzJ5DUdXKhJb4-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="CHẠY THỬ DỰ ÁN" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W2-PcuYCzJ5DUdXKhJb4-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="CUNG CÂP THÊM FLOW CHART VÀ CÁCH HDSD" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="W2-PcuYCzJ5DUdXKhJb4-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="PHƯƠNG ÁN TÍNH TOÁN THÉP HÌNH&lt;div&gt;KẾT CẤU THÉP NHANH THEO POLYLINE&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
